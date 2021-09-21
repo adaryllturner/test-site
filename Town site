@@ -11,10 +11,12 @@
             <title>Assignment 1-4 code activity</title>
                 </head>
                     <body>
+                        <body bgcolor=8a8c8f></body>
+                        <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
                     <!-- this is the website title -->
-                        <h1> Town test website</h1>
+                        <h1> <font color="be1e2d">Town test website</font></h1>
                             <!-- this is the heading -->
-                            <p>
+                            <p><p style="font-family:verdana">
                             To bring quality, style and the wish for good fortune
                             to all of our guests. We provide a high-end experience
                             through Chinese cuisine.
